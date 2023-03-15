@@ -1,5 +1,5 @@
 [package]
-name = "roomst-pool"
+name = "roomst"
 version = "0.1.0"
 edition = "2021"
 
